@@ -9,3 +9,5 @@ Over the past few months, this software has became increasingly quick at helping
 - Extremely customizable: Enter custom values to make sure your clearance system stays structured
 - Built-in Pre Departure Clearance Generator allowing you to keep transmissions to the minimum
 - Copy & paste availability: Allows you to quickly copy and past values over into 24Scope to make sure you stay up to date
+
+For information on how to use, check out the instructions files that guide you through using both normal entries, as well as custom entries.
