@@ -10,7 +10,7 @@ Before you begin adding clearances to the table, you must first setup the airpor
 - ITKO / Tokyo
 - IPPH / Perth
 - IGRV / Grindavik
-- ISAU / Sauthemtona
+- ISAU / Sauthemtona<br>
 All of the SID data is taken from Aeronav Charts, so all 9 airports will be supported over at Aeronav: https://aeronav.space/app
 
 <b> Departure Runway </b><br>
