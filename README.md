@@ -4,6 +4,11 @@ For notifications on future updates, as well as other software created by me, ch
 Dan's ATC24 Software - https://discord.gg/Euf3Rq78UX <br>
 24Hub - https://discord.gg/TKHPtvAz2q
 
+## Reporting Bugs
+To report bugs you can contact me through the following methods: <br>
+Discord - @dan_da_aviator <br>
+Email - dans24softwares@outlook.com
+
 ## Introduction
 Dan's ATC24 Clearance Generator is a software designed to ensure maximum efficiency when controlling on ATC24. Instead of manually having to piece together a clearance for an aircraft on ATC24, you can do it in an unbelievably structured style using the Clearance Generator V3. The software works by assigning SID and vector data based off the destination, so for example you have an aircraft looking to fly to Perth from Greater Rockford: the software will choose a SID or a vector that turns in the Northerly direction.
 Over the past few months, this software has became increasingly quick at helping controllers clear aircraft, especially with our built in PDC generator.
