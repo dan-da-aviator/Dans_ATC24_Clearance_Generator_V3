@@ -3,6 +3,7 @@
 For notifications on future updates, as well as other software created by me, check out the discord: <br>
 Dan's ATC24 Software - https://discord.gg/Euf3Rq78UX <br>
 24Hub - https://discord.gg/TKHPtvAz2q
+24Controllers - https://discord.gg/am2ww4kdmq
 
 ## Reporting Bugs
 To report bugs you can contact me through the following methods: <br>
